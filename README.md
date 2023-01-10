@@ -2,6 +2,9 @@ User Story:
 1. When the user clicks a button, the next question should show
 2. f the user gets the question correct, it should increment their score
 3. When the user gets to the end of the quiz, their total score should be shown
+
+![image](https://user-images.githubusercontent.com/15225177/211660203-f8f3375e-0e79-4950-9da7-9bf59a82f4e4.png)
+
 ********************************************
 
 # Getting Started with Create React App
